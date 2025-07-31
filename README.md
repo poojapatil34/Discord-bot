@@ -1,2 +1,1 @@
-# Discord-bot
-A simple discord-bot
+This code is a basic Discord bot created using the discord.js library. It connects to Discord using a bot token, listens for messages in a server, and replies automatically. It can also detect messages starting with create, extract a URL from them, and respond with a message indicating it's generating a short ID for that URL. Additionally, it registers and handles a /create slash command using Discord's REST API and replies to interactions like commands or button clicks. 
